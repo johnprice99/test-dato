@@ -2,7 +2,7 @@
 
 `yarn develop`
 
-http://localhost:8000/\_\_\_graphql
+http://localhost:8000/___graphql
 
 use the following query
 
